@@ -1,0 +1,3 @@
+ZkClient是Github上一个开源的ZooKeeper客户端。
+ZkClient在ZooKeeper原生 API接口之上进行了包装，是一个更加易用的ZooKeeper客户端。
+同时，ZkClient在内部实现了诸如Session超时重连、Watcher反复注册等功能。
